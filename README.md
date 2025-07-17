@@ -48,7 +48,7 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 `Java` · `Spring Boot` · `API REST` · `PHP` · `HTML` · `CSS` · `JavaScript` · `JSF` · `Oracle ADF` · `PL/SQL`  
 `Oracle DB` ·  `MySQL`·  `Progress 4GL`· `JPA` · `Jenkins` · `Swagger` · `Jira` · `Figma` . `GitHub`
 
-## 🧾 Herramientas Corporativas
+#### 🧾 Herramientas Corporativas
 `Active Directory` · `HP Service Manager` · `SharePoint` · `HP Service Manager` · `InfoPath`
 
 #### ⚙️ Herramientas de Desarrollo
@@ -56,6 +56,8 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 
 #### ☁️ DevOps / Infraestructura
 `Active Directory` · `Linux` · `AWS` · `Jenkins` · `Docker` 
+
+---
 
 <p align="left">
   <!-- Lenguajes y frameworks -->
