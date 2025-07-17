@@ -40,16 +40,22 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 ### 🧰 Skills Técnicos
 
 #### 🧠 Ciencia de Datos e IA
-Python · Pandas · NumPy · Jupyter · TensorFlow · Power BI · QlikView · Scikit-learn · Seaborn · NLP · YOLO · Mediapipe
+`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `QlikView`  
+`Jupyter` · `Google Colab` · `Git` · `Docker` · `TensorFlow` · `ROS 2` · `LangChain`  
+`Machine Learning` · `Deep Learning` · `YOLOv8` · `Mediapipe` · `NLP` · `Gazebo` · `MoveIt`
 
 #### 💻 Desarrollo y Programación
-Java · PHP · HTML · CSS · JavaScript · Spring Boot · SQL · MySQL
+`Java` · `Spring Boot` · `API REST` · `PHP` · `HTML` · `CSS` · `JavaScript` · `JSF` · `Oracle ADF` · `PL/SQL`  
+`Oracle DB` ·  `MySQL`·  `Progress 4GL`· `JPA` · `Jenkins` · `Swagger` · `Jira` · `Figma` . `GitHub`
+
+## 🧾 Herramientas Corporativas
+`Active Directory` · `HP Service Manager` · `SharePoint` · `HP Service Manager` · `InfoPath`
 
 #### ⚙️ Herramientas de Desarrollo
-VS Code · IntelliJ IDEA · Eclipse · Sublime Text · Arduino IDE · Postman · GitHub · Git
+`VS Code` · `IntelliJ IDEA` · `Eclipse` · `Sublime Text` · `Arduino IDE` · `Postman` · `GitHub` · `Git`
 
 #### ☁️ DevOps / Infraestructura
-Linux · AWS · Jenkins · Docker
+`Active Directory` · `Linux` · `AWS` · `Jenkins` · `Docker` 
 
 <p align="left">
   <!-- Lenguajes y frameworks -->
@@ -70,7 +76,7 @@ Linux · AWS · Jenkins · Docker
 
 ---
 
-### 🌐 Contacto
+### 📞 Contacto
 
 <p align="left">
   <a href="https://github.com/Nasabunc09" target="_blank">
