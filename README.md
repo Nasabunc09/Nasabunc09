@@ -39,23 +39,37 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 
 ### 🧰 Skills Técnicos
 
-#### Ciencia de Datos / IA
-`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `QlikView`  
-`Jupyter` · `Google Colab` · `Git` · `Docker` · `TensorFlow` · `ROS 2` · `LangChain`  
-`Machine Learning` · `Deep Learning` · `YOLOv8` · `Mediapipe` · `NLP` · `Gazebo` · `MoveIt`
+## 🧠 Ciencia de Datos e IA
+Python · Pandas · NumPy · Jupyter · TensorFlow · Power BI · QlikView · Scikit-learn · Seaborn · NLP · YOLO · Mediapipe
 
-#### Desarrollo
-`Java` · `Spring Boot` · `API REST` · `HTML` · `JSF` · `Oracle ADF` · `PL/SQL`  
-`Oracle DB` · `Progress 4GL` · `JPA` · `Jenkins` · `Swagger` · `Jira` · `GitHub`
+## 💻 Desarrollo y Programación
+Java · PHP · HTML · CSS · JavaScript · Spring Boot · SQL · MySQL
 
-#### Otros
-`Active Directory` · `HP Service Manager` · `SharePoint` · `QlikView` · `Excel avanzado`
+## ⚙️ Herramientas de Desarrollo
+VS Code · IntelliJ IDEA · Eclipse · Sublime Text · Arduino IDE · Postman · GitHub · Git
+
+## ☁️ DevOps / Infraestructura
+Linux · AWS · Jenkins · Docker
 
 ---
 
 ### 🚀 Tecnologías que uso
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,sql,docker,git,jupyter,tensorflow,react,html,css,javascript" />
+  <!-- Lenguajes y frameworks -->
+  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,spring,django" />
+  <br />
+  
+  <!-- Data Science & AI -->
+  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,sql,mysql" />
+  <br />
+
+  <!-- Herramientas y entornos -->
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,arduino,postman,jenkins,github" />
+  <br />
+
+  <!-- Otros -->
+  <img src="https://skillicons.dev/icons?i=git,figma,docker,aws,linux" />
 </p>
 
 ---
