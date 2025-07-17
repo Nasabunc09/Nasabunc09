@@ -51,10 +51,6 @@ VS Code · IntelliJ IDEA · Eclipse · Sublime Text · Arduino IDE · Postman ·
 #### ☁️ DevOps / Infraestructura
 Linux · AWS · Jenkins · Docker
 
----
-
-### 🚀 Tecnologías que uso
-
 <p align="left">
   <!-- Lenguajes y frameworks -->
   <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,spring,django" />
