@@ -67,6 +67,19 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 - 🚀 Instagram: [instagram.com/N00bitec](https://www.instagram.com/N00bitec)
 - 📎  LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/cyntia-nasabun-b7499288/)
 
+<p align="left">
+  <a href="https://github.com/Nasabunc09" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nasabunc@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>
+  </a>
+</p>
 
 ¡No dudes en escribirme!
 
