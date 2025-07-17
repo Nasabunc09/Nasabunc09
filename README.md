@@ -65,7 +65,7 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 - 📫 Email: [nasabunc@gmail.com](mailto:nasabunc@gmail.com)  
 - 💼 GitHub: [github.com/Nasabunc09](https://github.com/Nasabunc09)  
 - 🚀 Instagram: [instagram.com/N00bitec](https://www.instagram.com/N00bitec)
-- 📎  LinkeIn: [https://www.linkedin.com](https://www.linkedin.com/in/cyntia-nasabun-b7499288/)
+- 📎  LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/cyntia-nasabun-b7499288/)
 
 
 ¡No dudes en escribirme!
