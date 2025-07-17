@@ -39,16 +39,16 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 
 ### 🧰 Skills Técnicos
 
-# 🧠 Ciencia de Datos e IA
+#### 🧠 Ciencia de Datos e IA
 Python · Pandas · NumPy · Jupyter · TensorFlow · Power BI · QlikView · Scikit-learn · Seaborn · NLP · YOLO · Mediapipe
 
-# 💻 Desarrollo y Programación
+#### 💻 Desarrollo y Programación
 Java · PHP · HTML · CSS · JavaScript · Spring Boot · SQL · MySQL
 
-# ⚙️ Herramientas de Desarrollo
+#### ⚙️ Herramientas de Desarrollo
 VS Code · IntelliJ IDEA · Eclipse · Sublime Text · Arduino IDE · Postman · GitHub · Git
 
-# ☁️ DevOps / Infraestructura
+#### ☁️ DevOps / Infraestructura
 Linux · AWS · Jenkins · Docker
 
 ---
