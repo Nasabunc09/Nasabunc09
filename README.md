@@ -27,6 +27,7 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 
 ### 📚 Formación Destacada
 
+- 📈 Data Science - Fundación YPF
 - 🧠 Diplomatura en Ciencia de Datos e IA – IFES  
 - 📊 Big Data – Open Academy Santander  
 - 🐍 Fullstack Python – Codo a Codo 4.0  
