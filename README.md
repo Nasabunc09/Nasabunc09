@@ -74,9 +74,10 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
   <a href="mailto:nasabunc@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>
   </a>
-<a href="https://www.instagram.com/N00bitec/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>
-</a>
+  &nbsp;
+  <a href="https://www.instagram.com/N00bitec/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>
+  </a>
 </p>
 
 ¡No dudes en escribirme!
