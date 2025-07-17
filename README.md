@@ -8,7 +8,7 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 
 ### 🧠 Sobre mí
 
-- 📍 Vivo en Cipolletti, Río Negro - Argentina  
+- 📍 Vivo en Río Negro - Argentina  
 - 🎓 Estudio **Análisis y Gestión de Datos** en la UNSL y **Desarrollo Web** en la UNCo  
 - 🤖 En constante formación en **Inteligencia Artificial, Big Data y Ciencia de Datos**  
 - 🔍 Apasionada por la automatización, el aprendizaje automático y el desarrollo backend  
