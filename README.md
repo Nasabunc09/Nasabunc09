@@ -30,10 +30,15 @@ Soy una profesional apasionada por la tecnología, con experiencia en desarrollo
 - 📈 Data Science - Fundación YPF
 - 🧠 Diplomatura en Ciencia de Datos e IA – IFES  
 - 📊 Big Data – Open Academy Santander  
-- 🐍 Fullstack Python – Codo a Codo 4.0  
-- 🧠 Macroentrenamiento en IA – UNAM / MeIA 2025  
+- 🐍 Fullstack Python – Codo a Codo 4.0
+- 💡  Habilidades blandas | Codo a Codo 4.0
+- 🧾 Curso de Metodología ÁGIL : Scrum - Polo TIC Misiones
+- 🧠 Macroentrenamiento en IA – UNAM
+- 🌐 Desarrollor Web Fullstack con Javacript y Pyhton Jr - Polo TIC Misiones
+- 📊 Desarrollor Qlik Sense - Data Q
 - ⚙️ Ciberseguridad – Fundación Telefónica  
 - 🤖 Robótica con Arduino – Instituto Técnico Superior Cipolletti
+- 🛠️ Técnico en Armado y Reparación de PC - Instituto ICAT
 
 ---
 
